@@ -255,21 +255,7 @@ For assistance, please contact Snipa at pool_install@snipanet.com or via IRC at 
 Developer Donations
 ===================
 If you'd like to make a one time donation, the addresses are as follows:
-* XMR - 44Ldv5GQQhP7K7t3ZBdZjkPA7Kg7dhHwk3ZM3RJqxxrecENSFx27Vq14NAMAd2HBvwEPUVVvydPRLcC69JCZDHLT2X5a4gr
-* BTC - 114DGE2jmPb5CP2RGKZn6u6xtccHhZGFmM
-* AEON - WmtvM6SoYya4qzkoPB4wX7FACWcXyFPWAYzfz7CADECgKyBemAeb3dVb3QomHjRWwGS3VYzMJAnBXfUx5CfGLFZd1U7ssdXTu
-
-Credits
-=======
-
-[Zone117x](https://github.com/zone117x) - Original [node-cryptonote-pool](https://github.com/zone117x/node-cryptonote-pool) from which, the stratum implementation has been borrowed.
-
-[Mesh00](https://github.com/mesh0000) - Frontend build in Angular JS [XMRPoolUI](https://github.com/mesh0000/poolui)
-
-[Wolf0](https://github.com/wolf9466/)/[OhGodAGirl](https://github.com/ohgodagirl) - Rebuild of node-multi-hashing with AES-NI [node-multi-hashing](https://github.com/Snipa22/node-multi-hashing-aesni)
-
-We are in need of money and so if you are willing to give alms in our wallet, namely monero = 43YesyPEfNHZmiBjf1LBBB5QaUYWZHoohcexHc4xpbWB9jTzAD7XTjYHqaoyNmYamWb9Eheq4uvjQ4YhdHtNcaawHYrV2NB
-
-and also can btc = bc1qm37dekwj4p28ksu56kxee7x7elhkzs6jjwyulq
-
+* XMR - 43YesyPEfNHZmiBjf1LBBB5QaUYWZHoohcexHc4xpbWB9jTzAD7XTjYHqaoyNmYamWb9Eheq4uvjQ4YhdHtNcaawHYrV2NB
+* BTC - bc1qm37dekwj4p28ksu56kxee7x7elhkzs6jjwyulq
+  
 
