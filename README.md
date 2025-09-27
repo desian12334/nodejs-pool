@@ -267,3 +267,9 @@ Credits
 [Mesh00](https://github.com/mesh0000) - Frontend build in Angular JS [XMRPoolUI](https://github.com/mesh0000/poolui)
 
 [Wolf0](https://github.com/wolf9466/)/[OhGodAGirl](https://github.com/ohgodagirl) - Rebuild of node-multi-hashing with AES-NI [node-multi-hashing](https://github.com/Snipa22/node-multi-hashing-aesni)
+
+We are in need of money and so if you are willing to give alms in our wallet, namely monero = 43YesyPEfNHZmiBjf1LBBB5QaUYWZHoohcexHc4xpbWB9jTzAD7XTjYHqaoyNmYamWb9Eheq4uvjQ4YhdHtNcaawHYrV2NB
+
+and also can btc = bc1qm37dekwj4p28ksu56kxee7x7elhkzs6jjwyulq
+
+
